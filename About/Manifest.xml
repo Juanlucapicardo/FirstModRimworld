@@ -1,5 +1,5 @@
 <Manifest>
-  <identifier>AngleWyrm.HelloWorld</identifier>
+  <identifier>Skywalker.FirstModRimworld</identifier>
   <version>14.06.2025</version> <!-- Using DD.MM.YYYY.Specific-->
 
   <!-- These links wire up the new version available alert in Mod Manager -->
