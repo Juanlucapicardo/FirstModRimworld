@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>FirstModRimworld</name>
+  <author>Skywalker</author>
+  <packageId>Skywalker.FirstModRimworld</packageId> <!-- Common practice to use author name as a namespace to avoid name collision issues -->
+  <description>First attempt at creating a mod.</description> <!-- appears in mod list -->
+</ModMetaData>
